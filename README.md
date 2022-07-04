@@ -63,7 +63,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Harkanni&theme=dracula&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Harkanni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Harkanni&theme=gotham&hide_border=true" /></a>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#your-username&theme=dracula&hide_border=true) -->
 
