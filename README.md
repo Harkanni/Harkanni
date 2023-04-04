@@ -44,7 +44,7 @@
 
 
 
-## 📊 My Github Stats
+## 📊 Github Stats
 <p align="center">
     <a href="https://github.com/Harkanni/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harkanni's Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Harkanni&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0"/>
