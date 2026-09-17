@@ -39,11 +39,17 @@
 ## More builds
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/starttech-dark.svg"><img src="assets/starttech-light.svg" alt="StartTech: React and Go on EKS" width="49%"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/huddle-dark.svg"><img src="assets/huddle-light.svg" alt="Huddle: cloud engineer for a cross-functional team" width="49%"></picture>
+  <a href="https://github.com/Harkanni/starttech-application">
+    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/starttech-dark.svg"><img src="assets/starttech-light.svg" alt="StartTech: React and Go on EKS" width="49%"></picture>
+  </a>
+  <a href="https://github.com/Harkanni/Hurdle-Production-Repo">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/huddle-dark.svg"><img src="assets/huddle-light.svg" alt="Huddle: cloud engineer for a cross-functional team" width="49%"></picture>  
+  </a>
   <a href="https://github.com/Harkanni/3-tier-architecture"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/threetier-dark.svg"><img src="assets/threetier-light.svg" alt="Three-Tier Web App on AWS" width="49%"></picture></a>
   <a href="https://github.com/Harkanni/status-chunks"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/status-dark.svg"><img src="assets/status-light.svg" alt="Status Splitter: privacy-first video tool" width="49%"></picture></a>
+  <a href="https://github.com/Harkanni/starttech-application">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/muchtodo-dark.svg"><img src="assets/muchtodo-light.svg" alt="MuchToDo: a Go API in private subnets" width="49%"></picture>
+  </a>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/odoo-dark.svg"><img src="assets/odoo-light.svg" alt="odoo-cloud: provision with Terraform, configure with Ansible" width="49%"></picture>
 </p>
 
