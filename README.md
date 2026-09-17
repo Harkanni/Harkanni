@@ -1,87 +1,152 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akanni</h1>
-<h3 align="center">I'm a passionate Frontend Developer.</h3>
-
-
-## 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available here on Github
-
-- 📫 How to reach me **sendaraven2@gmail.com**
-
-- ⚡ Fun fact **I'm 2600 rated chess player(I wish...).**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>    
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.vuejs.org" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-   <!--  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  -->  
-    <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
-   <!--  <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    -->
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-
-
-## 📊 Github Stats
 <p align="center">
-    <a href="https://github.com/Harkanni/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harkanni's Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Harkanni&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13233A,100:2E57F0&height=190&section=header&text=Akanni%20Emmanuel&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" alt="Akanni Emmanuel, Cloud and DevOps Engineer" width="100%" />
 </p>
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harkanni&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) -->
 
-  <br/>
-    <a href="https://github.com/Harkanni/github-readme-stats"><img alt="Harkanni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Harkanni&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Harkanni/github-readme-stats"><img alt="Harkanni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harkanni&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=21&pause=1400&color=2E57F0&center=true&vCenter=true&width=640&lines=I+design+AWS+infrastructure+around+how+apps+actually+run;Terraform+%7C+Amazon+EKS+%7C+Kubernetes+%7C+GitHub+Actions;5%2B+years+shipping+software%2C+now+building+the+platform+underneath" alt="Typing intro" />
+</p>
 
+<p align="center">
+  <!-- Replace YOUR-PORTFOLIO-URL once the site is live on CloudFront -->
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-13233A?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/akanniemmanuel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@cloudopstechlead"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://x.com/the_tech_lead"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:akanniemmanuel2001@gmail.com"><img src="https://img.shields.io/badge/Email-2E57F0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<br/>
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harkanni&label=Profile%20views&color=2E57F0&style=flat" alt="Profile views" />
+  <a href="https://www.credly.com/badges/e5ab176b-0334-428c-955b-ead8ee56cdd8/public_url"><img src="https://img.shields.io/badge/AWS%20Educate-Cloud%20Computing%20101-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Educate Cloud Computing 101 badge on Credly" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Cloud%20%7C%20DevOps%20%7C%20Infrastructure%20roles-178A66?style=flat" alt="Open to Cloud, DevOps and Infrastructure roles" />
+</p>
 
-<a href="https://github.com/Harkanni/github-readme-activity-graph"><img alt="Harkanni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Harkanni&theme=gotham&hide_border=true" /></a>
+---
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#your-username&theme=dracula&hide_border=true) -->
+### `$ terraform output akanni`
 
-<br/>
-<br/>
+```hcl
+module "akanni" {
+  source   = "github.com/harkanni"
+  role     = "Cloud & DevOps Engineer"
+  location = "Lagos, Nigeria (open to remote)"
 
-## Connect with me:
+  focus = ["AWS", "Terraform", "Kubernetes (EKS)", "CI/CD", "Docker"]
+
+  background = "5+ years building web apps, so I design infrastructure around what the application needs"
+
+  currently = {
+    studying = "Cloud Engineering at AltSchool Africa"
+    preparing_for = "AWS Certified Solutions Architect – Associate"
+    writing  = "medium.com/@cloudopstechlead"
+  }
+
+  fun_fact = "2600-rated chess player (I wish...)"
+}
+```
+
+---
+
+### 🛠️ Stack
+
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/akanniemmanuel/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/the_tech_lead"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,ansible,linux,bash&perline=8" alt="AWS, Terraform, Kubernetes, Docker, GitHub Actions, Ansible, Linux, Bash" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=go,python,ts,react,nextjs,nodejs,postgres,mysql,mongodb,redis,netlify,git&perline=12" alt="Go, Python, TypeScript, React, Next.js, Node.js, PostgreSQL, MySQL, MongoDB, Redis, Netlify, Git" />
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+| Layer | What I use |
+|---|---|
+| **Cloud** | EC2, EKS, VPC, IAM, S3, CloudFront, ALB, Lambda, RDS, DynamoDB, ElastiCache, ECR, Secrets Manager, CloudWatch |
+| **Infrastructure as code** | Terraform modules, S3 remote state with locking, Ansible |
+| **Containers** | Docker multi-stage builds, Docker Compose, Kubernetes, Helm, AWS Load Balancer Controller |
+| **Delivery** | GitHub Actions, OIDC federation, multi-target deploys (S3 + CloudFront, Netlify, Render) |
+| **Security** | Least-privilege IAM, IRSA, EKS Access Entries, namespace RBAC, External Secrets Operator |
+
+---
+
+### 🏗️ Featured work
+
+#### [Project Bedrock](https://github.com/Harkanni/project-bedrock-0324): a microservices store on Amazon EKS
+
+A five-service retail app on a production-grade EKS cluster, provisioned end to end with Terraform.
+
+```mermaid
+flowchart LR
+  push([git push]) --> gha[GitHub Actions<br/>OIDC]
+  gha --> tf[Terraform]
+  gha --> helm[Helm]
+  tf --> eks
+  shopper([Shopper]) --> alb[ALB Ingress] --> eks[Amazon EKS<br/>retail-app namespace]
+  helm --> eks
+  eks --> rds[(RDS MySQL<br/>and PostgreSQL)]
+  eks --> ddb[(DynamoDB)]
+  sm[Secrets Manager] -. External Secrets .-> eks
+  eks -. logs and metrics .-> cw[CloudWatch]
+  s3[(S3 upload)] --> lambda[Lambda<br/>image processing]
+```
+
+Multi-AZ VPC · EKS 1.33 with Access Entries · per-service IRSA · External Secrets · CloudWatch Observability · S3-triggered Lambda · read-only, namespace-scoped developer access
+
+<br />
+
+| Project | What it shows |
+|---|---|
+| **StartTech** | React and Go on EKS behind a dual-origin CloudFront distribution (S3 + ALB), modular Terraform, three separate GitHub Actions pipelines, and a full rebuild on a new AWS account from the same code |
+| **MuchToDo** | Go API in private subnets across two AZs with NAT, bastion host and a health-checked ALB, containerized as a non-root multi-stage image |
+| **Huddle** | Cloud engineer for a cross-functional Agile team building a lightweight team messaging app, deploying to EC2 with Docker |
+| **[Three-Tier Web App](https://github.com/Harkanni/3-tier-architecture)** | Serverless app on S3, CloudFront, API Gateway, Lambda and DynamoDB, written up as a [step-by-step guide](https://medium.com/@cloudopstechlead/build-a-three-tier-web-app-8762da58ea7a) |
+| **[Status Splitter](https://github.com/Harkanni/status-chunks)** | Privacy-first video splitter PWA (ffmpeg-wasm), hosted on S3 + CloudFront, later migrated to Netlify |
+| **odoo-cloud** | Terraform provisions the EC2 host, Ansible configures it over SSH |
+
+---
+
+### 🔥 Things I've broken and fixed
+
+<details>
+<summary><b>EKS nodes never joined the cluster</b> (<code>NodeCreationFailure</code>)</summary>
+<br />
+Subnets had no route table association and public IP assignment was off, so nodes couldn't reach the control plane. Fixed the subnet routing in Terraform.
+</details>
+
+<details>
+<summary><b>Every CI run said resources "already exist"</b></summary>
+<br />
+No remote state backend, so each runner started from empty state. Moved state to S3 with locking and wrote an idempotent cleanup script for orphaned resources.
+</details>
+
+<details>
+<summary><b>Pods couldn't reach instance metadata</b></summary>
+<br />
+The IMDSv2 hop limit of 1 blocks responses to containers. Raised it with a custom EKS launch template.
+</details>
+
+<details>
+<summary><b>Terraform destroy stuck on External Secrets</b></summary>
+<br />
+The CRDs were removed before the objects depending on them. Disabled the dependent config, cleaned up state, emptied the bucket, and finished a clean teardown.
+</details>
+
+---
+
+### ✍️ Writing
+
+- [Build a Three-Tier Web App](https://medium.com/@cloudopstechlead/build-a-three-tier-web-app-8762da58ea7a): a 31-minute serverless AWS walkthrough
+- [My Docker engineering interview with a big tech AI company](https://medium.com/@cloudopstechlead/i-had-an-engineering-interview-the-other-day-with-a-big-tech-ai-company-for-a-docker-engineering-e41a671cd9c7): what the role involved and how I prepared
+
+---
+
+### 📊 GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harkanni&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2E57F0&icon_color=2E57F0&text_color=8B9BB4" alt="Harkanni's GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Harkanni&hide_border=true&background=00000000&ring=2E57F0&fire=2E57F0&currStreakLabel=2E57F0&sideLabels=8B9BB4&currStreakNum=8B9BB4&sideNums=8B9BB4&dates=8B9BB4" alt="Harkanni's GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harkanni&bg_color=00000000&color=8B9BB4&line=2E57F0&point=2E57F0&area=true&area_color=2E57F0&hide_border=true" alt="Harkanni's contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E57F0,100:13233A&height=110&section=footer" alt="" width="100%" />
+</p>
